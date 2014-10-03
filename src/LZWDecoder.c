@@ -7,7 +7,7 @@
 #include "Utils.h"
 #include <stdio.h>
 #include <malloc.h>
-#include <String.h>
+#include <string.h>
 
 #define getIndex(x) (x - 256)
 #define bitWriteSize     8

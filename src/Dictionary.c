@@ -3,7 +3,7 @@
 #include "ErrorCode.h"
 #include <stdio.h>
 #include <malloc.h>
-#include <String.h>
+#include <string.h>
 #include "InStream.h"
 
 unsigned char currentByte;

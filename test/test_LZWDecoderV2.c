@@ -5,7 +5,7 @@
 #include "mock_OutStream.h"
 #include "ErrorCode.h"
 #include "LZWDecoder.h"
-#include <String.h>
+#include <string.h>
 
 #define bitSize   8
 
